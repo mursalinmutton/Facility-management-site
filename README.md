@@ -56,13 +56,13 @@ To run the project locally:
    bash
    Copy code
 
-3. **Install dependencies**:
+4. **Install dependencies**:
 
    bash
    Copy code
    npm install
    
-4. **Start the development server**:
+5. **Start the development server**:
 
 bash
 Copy code
