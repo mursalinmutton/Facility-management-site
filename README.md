@@ -67,3 +67,12 @@ To run the project locally:
 bash
 Copy code
 npm start
+
+## Contributing
+Contributions are welcome! Please read our CONTRIBUTING.md file for detailed contribution guidelines.
+
+##License
+
+This version includes consistent formatting with proper Markdown syntax for lists, sections, and code blocks. It’s ready to copy and paste into your `README.md`.
+
+
