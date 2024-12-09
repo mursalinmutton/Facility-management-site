@@ -50,3 +50,9 @@ To run the project locally:
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
+
+   Navigate to the project directory:
+
+bash
+Copy code
+
