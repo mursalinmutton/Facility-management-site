@@ -51,8 +51,19 @@ To run the project locally:
    ```bash
    git clone <repository-url>
 
-   Navigate to the project directory:
+2. **Navigate to the project directory:
+
+   bash
+   Copy code
+
+3. **Install dependencies:
+
+   bash
+   Copy code
+   npm install
+   
+4. **Start the development server:
 
 bash
 Copy code
-
+npm start
